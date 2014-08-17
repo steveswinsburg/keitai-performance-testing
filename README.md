@@ -11,7 +11,7 @@ Performance test scripts for Project Keitai, the RESTful web service extensions 
 ## Getting started
 
 1. Clone this repository :)
-2. Create 5 sites in your Sakai instance, jMeter1, jMeter2, jMeter3, jMeter4, jMeter5 (TODO automate this)
-3. Import the set of users for each site
+2. Create 5 sites in your Sakai instance: jMeter1, jMeter2, jMeter3, jMeter4, jMeter5. (TODO automate this)
+3. Import the set of users for each site. (TODO automate this)
 4. Add the tests to jMeter.
 5. Run, analyse data.
